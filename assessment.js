@@ -90,5 +90,3 @@ const answers = [
     result = result.replaceAll('{userName}', userName);
     return result;
   }
-
-  
